@@ -39,6 +39,7 @@ cargo run --release
 2. **Enter a Passphrase**: Input a secure passphrase. This passphrase will be used to derive the encryption key.
 3. **Select an Algorithm**: Choose your preferred encryption algorithm from the available options.
 4. **Encrypt/Decrypt**: Click the Encrypt or Decrypt button as needed.
+
 **Viewing Encrypted Files**
 To view an encrypted text file without modifying it:
 
