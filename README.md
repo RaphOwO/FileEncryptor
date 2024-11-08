@@ -8,7 +8,9 @@ A simple file encryption tool built in Rust, featuring a user-friendly GUI power
 - ChaCha20-Poly1305
   
 **Key Derivation**: Derives encryption keys from user-provided passphrases for secure, consistent encryption.
+
 **Metadata Storage**: Automatically saves necessary decryption data (algorithm, salt, IV) with the encrypted file.
+
 **Encrypted File Viewer**: View the contents of an encrypted text file directly in the application without altering the file.
 
 # Getting Started
