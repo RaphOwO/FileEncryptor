@@ -18,20 +18,17 @@ Iced: This project relies on the Iced GUI library, which will be automatically i
 1. **Clone the repository**:
 
 ```bash
-Copy code
 git clone https://github.com/yourusername/file-encryptor.git
 cd file-encryptor
 ```
 2. **Build the project**:
 
 ```bash
-Copy code
 cargo build --release
 ```
 3. **Run the application**:
 
 ```bash
-Copy code
 cargo run --release
 ```
 # Usage
